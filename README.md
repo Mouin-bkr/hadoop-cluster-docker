@@ -35,4 +35,8 @@ Interacting with the Container
 To get a shell inside the running container for debugging or running Hadoop commands:
 
 bash
-docker exec -it hadoop-cluster /bin/bash
+    
+    docker exec -it hadoop-cluster /bin/bash
+
+![Hadoop Logo](https://raw.githubusercontent.com/razer99/hadoop-cluster-mouin-boubakri/main/hadoop_logo.png)
+
