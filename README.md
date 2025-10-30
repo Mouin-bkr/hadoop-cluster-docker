@@ -38,5 +38,4 @@ bash
     
     docker exec -it hadoop-cluster /bin/bash
 
-![Hadoop Logo](https://raw.githubusercontent.com/razer99/hadoop-cluster-mouin-boubakri/main/hadoop-logo.png)
 
